@@ -37,13 +37,7 @@ The API provides the following endpoints:
 Clone the project
 
 ```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
+  git clone git@github.com:hrsupare/my-book-management.git
 ```
 
 Install dependencies
